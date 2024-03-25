@@ -3,7 +3,7 @@ Moja definicja inteligencji w oparciu o wiedze z wykładu.
 
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
 - wypełnianie deklaracji PIT - można zautomatyzować, juz istnieją programy   
-- streszczanie tekstu - wymaga to umiejetności wyciągniecia najważniejszych wniosków z przekazanego tekstu i umieszczenia ich w skroconej formie
+- streszczanie tekstu - wymaga to umiejetności wyciągniecia najważniejszych wniosków z przekazanego tekstu i umieszczenia ich w skroconej formie,co wymaga inteligencji
 - tłumaczenie tekstu -Tu nie jestem w pełni zdecydowany. Tłumaczenie literatury pięknej wymaga dużo inteligencji ale tłumaczenie prostych komunikatów juz nie jest bardzo skomplikowane.
 - klasyfikacja tekstu do kategorii tematycznych - To zależy jak dokładne są kategorie tematyczne. Gdy mowa o dosyć szerokim klasyfikowaniu, mozna łatwo szeregowac uzywając słów kluczy. Gdy musimy dosyc scisle przyporządkowac, dużo zalezy od konkteskstu ktory juz nie jest tak łatwy do wykrycia.
 - odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim), - nie wymaga to inteligencji.
@@ -20,24 +20,24 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 # Zadanie 2
 Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej
 inteligencji:
-• streszczanie tekstu, miesci sie 
-• tłumaczenie tekstu, miesci sie 
+• streszczanie tekstu, może sie miescic 
+• tłumaczenie tekstu, miesci sie jeżeli mowa o prostych formach literackich
 • klasyfikacja tekstu do kategorii tematycznych, miesci sie
 • odpowiadanie na proste pytania zadawane w języku naturalnym, miesci sie 
 • rozwiązywanie układów równań, mieści sie 
 • układanie rozkładu jazdy, miesci sie 
 • rozwiązywanie układów równań liniowych, miesci sie
-• symboliczne obliczanie pochodnych, zależy od 
-• symboliczne całkowanie,  
+• symboliczne obliczanie pochodnych, mieści się 
+• symboliczne całkowanie,  miesci się 
 • kierowanie samochodem. nie miesci sie 
 
 # Zadanie 3
 Które z poniższych rodzajów komunikacyjnego zachowania człowieka mogą być
 obecnie skutecznie imitowane przez sztuczne systemy (odpowiednio oprogramowane
 maszyny):
-• rozmowa towarzyska, No niezbyt. 
+• rozmowa towarzyska, Może być imitowane do pewnego stopnia, czesto w rozmowie towarzyskiej uzywa sie sloganu lub tzw. inside jokeow, co moze byc ciezkie do realizacji
 • dyskusja polityczna, sztuczna inteligencja ktorą znam, unika zajmowania stanowsiska w politycznych tezach więc obawiam się ze ta konwersacja byla niepodobna do tych ludzkich
-• dyskusja naukowa, sztuczna inteligencja ktorą znam, unika zajmowania stanowsiska w niepotwierdzonych hipotezach więc moglby symulowac tylko dyskusje z przeszłosci
+• dyskusja naukowa, sztuczna inteligencja ktorą znam, unika zajmowania stanowsiska w niepotwierdzonych hipotezach więc moglby symulowac tylko dyskusje z przeszłosci, oraz nie jest ze wszystkim na bieżąco.
 • odpowiadanie na pytania klientów w telefonicznej infolinii, cieżko ponieważ człowiek moze powiedziec wszystko nawet cos co nie ma sensu albo uzyc lokalnej gwary, słowa znanego tylko wąskiej grupie, co moze uniemozliwyc realne odpowiedzi
 • odpowiadanie na pytania klientów w internetowej infolinii. Tu jest troche łatwiej poniewaz eliminujemy zakłocenia i wszelkie rzeczy związane z zaciąganiem/nie wyraznym mowieniem,w zaleznosci od złozonosci pytan moze dac rade.
 
@@ -46,8 +46,9 @@ Do zadań skorzystaj z załączonej listy Chatbotów (Chatterbotów) lub znajdź
 1. Przeprowadź rozmowę z chatbotem. Spróbuj zdefiniować różnice pomiędzy
 botem udającym człowieka (przygotowywanym na test Turinga) a botem
 „asystentem, służącym”.
-2. Sprawdź dwa boty z obu z tych rodzajów na występowanie zachowań:
-a) opowiadanie żartów,
+
+3. Sprawdź dwa boty z obu z tych rodzajów na występowanie zachowań:
+a) opowiadanie żartów, obaj opowiadaja zarty i obaj niesmieszne
 b) przytaczanie cytatów z twoich wypowiedzi, lub znanych osób,
 c) nawiązywanie wypowiedzi do słów kluczowych,
 d) zadawanie dużej liczby pytań,
@@ -56,7 +57,9 @@ f) zadawanie pytań powstających z twoich wypowiedzi,
 g) odpowiadanie wymijająco, ogólnikowo,
 h) częsta zmiana tematu rozmowy,
 i) problemy z utrzymaniem wątków.
-3. Sporządź raport ze spostrzeżeń.
-4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie przewidzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
+4. Sporządź raport ze spostrzeżeń.
+5. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie przewidzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
-5. Zdenerwuj bota �
+6. Zdenerwuj bota �
+
+
