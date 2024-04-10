@@ -1,4 +1,4 @@
-:- set_prolog_flag(occurs_check, error).        % disallow cyclic terms
+```:- set_prolog_flag(occurs_check, error).        % disallow cyclic terms
 :- set_prolog_stack(global, limit(8 000 000)).  % limit term space (8Mb)
 :- set_prolog_stack(local,  limit(2 000 000)).  % limit environment space
 
@@ -110,5 +110,5 @@ przodek_do2pokolenia_wstecz(X,Y) :-
 przodek_do3pokolenia_wstecz(X,Y) :-
     pradziadek(X,Y);prababcia(X,Y);
     dziadek(X,Y);babcia(X,Y);
-    ojciec(X,Y);matka(X,Y).
+    ojciec(X,Y);matka(X,Y).```
                          
